@@ -21,7 +21,6 @@
         </div>
       </div>
       <ul class="navbar col-xs-12 col-sm-12 col-md-6">
-        <li><a href="index.html">Home</a></li>
         <li><a href="product.html">Product</a></li>
         <li><a href="purchase.html">Purchase</a></li>
         <li><a href="contact.html">Contact</a></li>
